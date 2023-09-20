@@ -3,6 +3,12 @@
 # 💫 About Me:
 Hello, I'm Lộc, a resident living in Ho Chi Minh City, Vietnam. I'm passionate about the field of technology, especially web design and programming.
 
+## Contact us:
+👉 zalo: 0839 851 729
+👉 Gmail: anhlamot55@gmail.com
+👉 Portfolio: <a> https://klweb-portfolio.netlify.app/ </a>
+👉 Design: <a> https://www.behance.net/anhlamot55 </>
+
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/anhlamot55) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/loc-nguyenkhanh-927b0822a/) 
